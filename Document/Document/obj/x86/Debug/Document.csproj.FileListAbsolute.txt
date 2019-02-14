@@ -1,0 +1,6 @@
+/Users/JohnWilliams/Documents/IT2040/Document/Document/bin/Debug/Document.exe
+/Users/JohnWilliams/Documents/IT2040/Document/Document/bin/Debug/Document.pdb
+/Users/JohnWilliams/Documents/IT2040/Document/Document/obj/x86/Debug/Document.csprojAssemblyReference.cache
+/Users/JohnWilliams/Documents/IT2040/Document/Document/obj/x86/Debug/Document.csproj.CoreCompileInputs.cache
+/Users/JohnWilliams/Documents/IT2040/Document/Document/obj/x86/Debug/Document.exe
+/Users/JohnWilliams/Documents/IT2040/Document/Document/obj/x86/Debug/Document.pdb
